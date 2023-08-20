@@ -1,0 +1,19 @@
+.row-pading{
+ padding: 150px 0;
+}
+.font-color{
+    color: #1F2C73;
+    font-size: large;
+    font-weight: 700;
+}
+.co-font{
+    color: #5A6C90;
+    font-size: large;
+    font-weight: 400;
+
+}
+@media (max-width: 768px) {
+    .tet-center{
+        text-align: center;
+    }
+}

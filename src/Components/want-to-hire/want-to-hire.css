@@ -1,0 +1,27 @@
+.touch{
+    font-size: 12px;
+    background-color: #F50103;
+    color: #fff;
+    padding: 9px 25px ;
+    border: none;
+    font-weight: 600;
+}
+.fnt-size{
+    font-size: 60px;
+}
+.fnte-size{
+    font-size: 20px;
+}
+@media (max-width: 768px) {
+    .bg-img h1{
+        font-size: 15px;
+    }
+    .bg-img p{
+        font-size: 10px;
+    }
+
+    .bg-img button{
+        font-size: 8px;
+        padding: 5px 8px;
+    }
+}

@@ -1,0 +1,19 @@
+.minus{
+    padding-bottom: 100px;
+}
+.feature-padding{
+    padding-top: 100px;
+}
+.padding-bottom{
+    padding-bottom: 200px;
+}
+.padding-border{
+    padding-top: 55px;
+   
+}
+
+@media (max-width: 768px){
+    .padding-img{
+        padding: 23px 0 0 0;
+    }
+}

@@ -1,0 +1,45 @@
+.padding-row{
+    padding-top: 30px;
+}
+.location{
+    left: 110px;
+}
+
+.font-width{
+    font-weight: 500;
+}
+
+.Careers-At-Intertia{
+    background-color: #F50103;
+    color: #fff;
+    padding: 8px 17px ;
+    border: none;
+    font-weight: light;
+}
+
+.flexbox{
+    display: flex;
+    
+}
+
+.img-pdd{
+    padding: 0 0 0 45px;
+}
+
+@media (max-width: 768px) {
+    .img-pdd{
+        padding: 0 0 0 50px;
+    }
+    .txt-center{
+        text-align: center;
+    } 
+    .location-image{
+    
+        justify-content: center;
+       
+    }
+    .Careers-At-Intertia{
+        display: flex;
+        justify-content: center;
+    }
+}
