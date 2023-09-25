@@ -13,25 +13,25 @@ const Gallary = () => {
     <div className="bg-color ">
     <div className="container  ">
       <h1 className="text-center feature-padding font-sz-clor">Featured Projects</h1>
-      <div className="d-flex justify-content-center minus"><img src={minuse} alt=""  /> </div>
+      <div className="d-flex justify-content-center minus"><img src={minuse} alt=""/> </div>
       <div className="row ">
         <div className="col-md-4 ">
-          <img src={coffe} alt="" className=" img-fluid" />
+          <img src={coffe} alt="" className=" img-fluid"/>
           <img src={candy} alt="" className=" img-fluid pt-4"/>
         </div>
         <div className="col-md-4">
-          <img src={books} alt="" className=" img-fluid padding-img"  />{" "}
+          <img src={books} alt="" className=" img-fluid padding-img"/>{" "}
           <img src={icecreem} alt="" className=" img-fluid pt-4" />
         </div>
         <div className="col-md-4">
-          <img src={board} alt="" className=" img-fluid padding-img" />
-          <img src={postcard} alt="" className=" img-fluid pt-4" />
+          <img src={board} alt="" className=" img-fluid padding-img"/>
+          <img src={postcard} alt="" className=" img-fluid pt-4"/>
         </div>
         
       </div>
    
     </div>
-    <div><img className="padding-border img-fluid" src={botttom} alt="" /></div>
+    <div><img className="padding-border img-fluid" src={botttom} alt=""/></div>
     </div>
   );
 };
